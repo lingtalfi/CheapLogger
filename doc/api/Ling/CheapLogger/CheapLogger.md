@@ -29,7 +29,7 @@ class <span class="pl-k">CheapLogger</span>  {
 
 - Methods
     - public static [log](https://github.com/lingtalfi/CheapLogger/blob/master/doc/api/Ling/CheapLogger/CheapLogger/log.md)() : void
-    - public static [logg](https://github.com/lingtalfi/CheapLogger/blob/master/doc/api/Ling/CheapLogger/CheapLogger/logg.md)(?$args) : void
+    - public static [logg](https://github.com/lingtalfi/CheapLogger/blob/master/doc/api/Ling/CheapLogger/CheapLogger/logg.md)(...$args) : void
     - private static [getLogMessage](https://github.com/lingtalfi/CheapLogger/blob/master/doc/api/Ling/CheapLogger/CheapLogger/getLogMessage.md)($thing) : string
 
 }

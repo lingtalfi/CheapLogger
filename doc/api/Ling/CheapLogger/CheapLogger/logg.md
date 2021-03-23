@@ -16,7 +16,7 @@ Description
 ================
 
 
-public static [CheapLogger::logg](https://github.com/lingtalfi/CheapLogger/blob/master/doc/api/Ling/CheapLogger/CheapLogger/logg.md)(?$args) : void
+public static [CheapLogger::logg](https://github.com/lingtalfi/CheapLogger/blob/master/doc/api/Ling/CheapLogger/CheapLogger/logg.md)(...$args) : void
 
 
 
